@@ -22,6 +22,7 @@ git clone https://github.com/CosmWasm/cw-examples
 cd cw-examples
 git fetch --tags
 git checkout nameservice-0.11.0
+cd contracts
 cd nameservice
 
 cargo wasm
